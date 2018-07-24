@@ -1,0 +1,25 @@
+{
+  "name": "admissions.wsu.edu-research-scholars",
+  "version": "1.0.0",
+  "description": "Website of the WSU Research Scholars program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invokeImmediately/admissions.wsu.edu-research-scholars.git"
+  },
+  "keywords": [
+    "WSU",
+    "Washington",
+    "State",
+    "University"
+  ],
+  "author": "Daniel Rieck <danielcrieck@gmail.com> (https://www.linkedin.com/in/danielcrieck/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/invokeImmediately/admissions.wsu.edu-research-scholars/issues"
+  },
+  "homepage": "https://github.com/invokeImmediately/admissions.wsu.edu-research-scholars#readme"
+}
